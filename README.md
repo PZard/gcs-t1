@@ -4,3 +4,4 @@
 Acadêmicos:
 
 - Pedro Zardin Guimarães
+- Enzo Augusto Tonatto
