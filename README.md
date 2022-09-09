@@ -5,3 +5,4 @@ Acadêmicos:
 
 - Pedro Zardin Guimarães
 - Enzo Augusto Tonatto
+- Felipe Velasque de Oliveira
