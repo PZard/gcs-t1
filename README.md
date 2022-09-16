@@ -11,3 +11,12 @@ Acadêmicos:
 
 BeeCrowd (1256) - Hash Tables
 https://www.beecrowd.com.br/judge/en/problems/view/1256
+
+Instruções para executar o programa:
+
+```console
+git clone https://github.com/PZard/gcs-t1.git
+cd gcs-t1
+mvn package
+java -jar target/gs-maven-0.1.0.jar
+```
