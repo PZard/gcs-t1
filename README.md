@@ -1,4 +1,4 @@
-# Trabalho 1 - GCS
+# Trabalho 1 - GCS ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/PZard/gcs-t1/maven)
 ### Trabalho avaliativo para a disciplina de Gerenciamento de Configuração de Software.
 
 Acadêmicos:
@@ -12,7 +12,7 @@ Acadêmicos:
 BeeCrowd (1256) - Hash Tables
 https://www.beecrowd.com.br/judge/en/problems/view/1256
 
-Instruções para executar o programa:
+Instruções para executar o programa localmente:
 
 ```console
 git clone https://github.com/PZard/gcs-t1.git
